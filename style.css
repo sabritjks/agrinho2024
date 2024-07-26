@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    font-family: verdana;
+}
+
+h1{
+    color: aliceblue;
+}
+
+h2{ 
+    color: aliceblue;
+}
+
+h3{ 
+    color: aliceblue;
+}
+
+p{
+
+}
+
+img{
+
+}
+
+ul{
+    
+}
+
+img{
+ width: 20%;
+ border: solid 4px rgb(17, 152, 149);
+}
